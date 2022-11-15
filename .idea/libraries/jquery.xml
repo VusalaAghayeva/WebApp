@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="jquery">
+    <ANNOTATIONS>
+      <root url="file://$PROJECT_DIR$/web/js/jquery" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/web/js/jquery" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/web/js/jquery" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/web/js/jquery" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/web/js/jquery" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/web/js/jquery" recursive="false" type="SOURCES" />
+  </library>
+</component>

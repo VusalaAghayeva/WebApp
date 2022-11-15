@@ -1,0 +1,29 @@
+<!--<?xml version="1.0" encoding="utf-8" ?>-->
+<!--<Context>-->
+<!--    <Resource name="jdbc/videoders"-->
+<!--              auth="Container"-->
+<!--              type="javax.sql.DataSource"-->
+<!--              maxActive="50"-->
+<!--              maxIdle="30"-->
+<!--              maxWait="10000"-->
+<!--              username="root"-->
+<!--              password="12345"-->
+<!--              driverClassName="com.mysql.cj.jdbc.Driver"-->
+<!--              url="jdbc:mysql://localhost:3306/videoders;useUnicode=true;useJDBCCompliantTimezoneShift=true;useLegacyDatetimeCode=false;serverTimezone=UTC-->
+<!--"-->
+<!--    />-->
+
+<!--</Context>-->
+<?xml version="1.0" encoding="utf-8" ?>
+<Context>
+    <Resource name="jdbc/Example"
+              auth="Container"
+              type="javax.sql.DataSource"
+              maxActive="50"
+              maxIdle="30"
+              maxWait="10000"
+              username="root"
+              password="12345"
+              driverClassName="com.mysql.cj.jdbc.Driver"
+              url="jdbc:mysql://localhost:3306/videoders?serverTimezone=Asia/Baku"/>
+</Context>
